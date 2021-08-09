@@ -1,8 +1,8 @@
-###      RAVANA BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
+###      RBLACK PANTHER-BOT ලංකාවේ🇱🇰 සිංහල බොටෙක්
 
 
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/file/2051703355acecb2ce5c9.jpg" width="250" height="250"/>
+  <img border-radius: 15px src="https://i.ibb.co/cC36K6L/IMG-20210809-221124.jpg" width="250" height="250"/>
   <p align="center">
 
     
@@ -20,14 +20,14 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 Click WA logo to Join Support Group 👇
 <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BZxwFPt5pUe19Y4EW9DjDP)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/LvlMjqqI1563Gaeu2ReTOh)
   <div align="center">
        
   </div>
   
   ## RAVANA bot විශේෂාංග
 RAVANA bot විශේෂාංග මෙන්න.
-<a href="https://gist.github.com/RAVANA-SL/64b891a432607ba67e55c44f234fbd8f">
+<a href="https://github.com/maxbotfamily/BLACK-PANTHER-BOT.git/64b891a432607ba67e55c44f234fbd8f">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
@@ -36,9 +36,9 @@ RAVANA bot විශේෂාංග මෙන්න.
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@RAVANASL/indexjs#index.js)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANA-SL/slRavana)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/maxbotfamily/BLACK-PANTHER-BOT.git)
      </div>
 ### ⚠️ Warning! 
 ```
