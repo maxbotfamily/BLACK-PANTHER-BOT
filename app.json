@@ -8,7 +8,7 @@
     "success_url": "https://chat.whatsapp.com/LvlMjqqI1563Gaeu2ReTOh",
     "stack": "container",
     "env": {
-        "RAVANA_SESSION": {
+        "BLACK PANTHER_SESSION": {
             "description": "Qr සමඟ ඔබ නිර්මාණය කළ අභිරුචි session කේතය.ඇතුලත් කරන්න",
             "required": true
         },
