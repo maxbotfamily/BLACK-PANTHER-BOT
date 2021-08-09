@@ -1,15 +1,15 @@
 /*
-# Exclusively from RAVANA 
+# Exclusively from BLACK PANTHER 
 */
 
 function successfullMessage(msg) {
-    return "✅ *RAVANA*:  ```" + msg + "```"
+    return "✅ *BLACK PANTHER*:  ```" + msg + "```"
 }
 function errorMessage(msg) {
-    return "🛑 *RAVANA*:  ```" + msg + "```"
+    return "🛑 *BLACK PANTHER*:  ```" + msg + "```"
 }
 function infoMessage(msg) {
-    return "⏺️ *RAVANA*:  ```" + msg + "```"
+    return "⏺️ *BLACK PANTHER*:  ```" + msg + "```"
 }
 
 
