@@ -149,7 +149,7 @@
         },
         "profile": {
             "KICKME_DESC": "It kicks you from the group you are using it in.",
-            "KICKME": "```ගිහින් එන්නම්! මම යනවා 🥰```",
+            "KICKME": "```bye bye i'm,going...💃🏿```",
             "PP_DESC": "Makes the profile photo what photo you reply.",
             "NEED_PHOTO": "*Give me a photo!*",
             "PPING": "```Setting profile photo...```",
@@ -186,25 +186,25 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*මට කිසිවක් සොයාගත නොහැකි විය :(*",
-            "DOWNLOADING_SONG": "\n*සිිංදුුව  හොයනවා 🤗*\n",
-            "UPLOADING_SONG": "\n*සිිංදුුව  Uploading  වෙනවා 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n*finding your song..*\n",
+            "UPLOADING_SONG": "\n*සිිංදුුව  Uploading  📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
-            "DOWNLOADING_VIDEO": "```විීීඩිියො එක Downloading😘...```",
-            "UPLOADING_VIDEO": "```විීීඩිියො එක Uploading🥰...```",
+            "DOWNLOADING_VIDEO": "```you video is Downloading😘...```",
+            "UPLOADING_VIDEO": "```your video is Uploading🥰...```",
             "YT_DESC": "It searchs on YouTube.",
             "NEED_WORDS": "```Please write a few words!```",
             "GETTING_VIDEOS": "```I'm bringing videos...```",
-            "NOT_FOUND": "*මට කිසිවක් සොයාගත නොහැකි විය ☹️*",
+            "NOT_FOUND": "*i can't find enything ☹️*",
             "SEARCHING": "*🔎 Searching...*",
             "WIKI_DESC": "Searches query on Wikipedia.",
             "IMG_DESC": "Searches for related pics on Google.",
-            "IMG": "Uploading photo ```{}``` number ```{} ```..."
+            "IMG": "Uploading photo ```{5}``` number ```{} ```..."
         },
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```convorting 🤠```"
+            "DOWNLOADING": ```convorting...🐸```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
