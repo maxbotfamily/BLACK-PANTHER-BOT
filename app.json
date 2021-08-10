@@ -34,17 +34,17 @@
         "XTEAM_API": {
             "description": "api key. https://api.xteam.xyz/",
             "required": false,
-            "value": "5bd33b276d41d6b4"
+            "value": "Db2251ba8836d521"
         },
 	"ZEKS_API": {
             "description": "api key. https://zeks.xyz/",
             "required": false,
-            "value": "cjxJIn9eDletRHac3CG6CdvGxFH"
+            "value": "2U6LNfrIDBoUTp93An2aX0pw6LK"
         },
 	"LOLUHUMAN_API": {
             "description": "api key. https://lolhuman.herokuapp.com/",
             "required": false,
-            "value": "990580a2e31add15990665b0"
+            "value": "9e3bacca64aa4248cd0ce7fc"
         },
 	"MENU_TEXT": {
             "description": "RaVana Official Menu. ඔබ කැමති නමක් යොදන්න. නැතහොත් වෙනස් නොකරන්න. සැයු :- _ _,* *,~ ~,``` ``` භාවිතා නොකරන්න",
